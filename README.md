@@ -1,8 +1,51 @@
-# React + Vite
+# Paradise Nursery - Houseplant E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Paradise Nursery is a React-based e-commerce application built with **Vite** that allows users to browse and purchase houseplants. The app includes features like product categorization, a shopping cart, and responsive design using **Bootstrap**.
 
-Currently, two official plugins are available:
+Paradise Nursery Screenshots:
+_`/`_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./public/images/home_page.png)
+
+---
+
+_`/products`_
+
+![](./public/images/proucts_page.png)
+
+---
+
+_`/cart`_
+
+![](./public/images/cart_page.png)
+
+---
+
+## Technologies Used
+
+- **Frontend Framework**: React.js
+- **Build Tool**: Vite
+- **State Management**: Redux Toolkit
+- **Routing**: React Router DOM
+- **Styling**: Bootstrap
+- **Package Manager**: npm
+
+---
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/vmcse/paradise-nursery-shopping-cart
+   cd paradise-nursery-shopping-cart
+   ```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run the Development Server**
+   ```bash
+   npm run dev
+   ```
+4. **Open the App**
+   - Navigate to http://localhost:5173 in your browser.
